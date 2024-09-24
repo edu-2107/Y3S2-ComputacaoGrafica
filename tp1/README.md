@@ -13,6 +13,6 @@
 
 **Figure 1:** MyTriangleSmall.js
 
-![Screenshot 2](https://git.fe.up.pt/cg/cg-2023-2024/t12/cg-t12-g12/-/raw/master/tp1/screenshots/CG-t12g12-tp1-2.png.png)
+![Screenshot 2](screenshots/CG-t12g12-tp1-2.png.png)
 
 **Figure 2:** MyTriangleBig.js
