@@ -16,7 +16,7 @@
 We were unable to achieve the desired curvature for the flower, resulting in the flower appearing as shown in the image below.
 
 
-![Screenshot 1](https://git.fe.up.pt/cg/cg-2023-2024/t12/cg-t12-g12/-/raw/master/project/screenshots/project-t12g12-2.png?ref_type=heads)
+![Screenshot 1](screenshots/project-t12g12-2.png?ref_type=heads)
 
 **Figure 1:** Flowers without curvature
 
