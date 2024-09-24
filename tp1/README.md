@@ -9,7 +9,7 @@
 - In exercise 1 we created the Triangle.js and the Parallelogram.js based on the given code for MyDiamond.js. We also created the checkbox to easier control the visibility of the figures.
 - In exercise 2 we based on the code for MyTriangle.js we created the MyTriangleSmall.js and MyTriangleBig.js and we obtained the images below.
 
-![Screenshot 1](Screenshots/CG-t12g12-tp1-1.png.png)
+![Screenshot 1](tp1/Screenshots/CG-t12g12-tp1-1.png.png)
 
 **Figure 1:** MyTriangleSmall.js
 
